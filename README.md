@@ -17,4 +17,4 @@ Method 1: Traversal
 Initialize the value of the product to 1(not 0 as 0 multiplied with anything returns zero). Traverse till the end of the list, multiply every number with the product. The value stored in the product at the end will give you your final answer.
 Below is the Python implementation of the above approach:
 
-This is the approach or method number one of how we can multiply all the in the list.
+This is the approach or method number one of how we can multiply all the numbers in the list.
